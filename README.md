@@ -50,17 +50,18 @@ I initially started off with 6 labels: discussion, reaction, analysis, shitpots,
 I then decided on the following 2 labels:
 
 Discussion - 100 examples
+
 Review - 100 examples
 
 In the process of labelling, I struggled with some of the following examples:
 
-"So I watched The Garden of Words today. It's only a 45 minute movie, but it is so beautiful. The way the rain and the environment are depicted makes you truly feel it, watching the movie feels just like reading a piece of poetry. I really liked the characters and the story as well..."
-True Label: Discussion
-Reason: The post has all the markings of a review, but the informal language focusing on feelings made me want to reply to the post. 
+    "So I watched The Garden of Words today. It's only a 45 minute movie, but it is so beautiful. The way the rain and the environment are depicted makes you truly feel it, watching the movie feels just like reading a piece of poetry. I really liked the characters and the story as well..."
+    True Label: Discussion
+    Reason: The post has all the markings of a review, but the informal language focusing on feelings made me want to reply to the post. 
 
-"So, I have finished watching the first season of Oshi no Ko. Although it has 11 episodes, the first episode was the length of four... Before starting the series, I had seen some pictures and clips where everything looked very cute, but once I started watching, I realized how much darkness was hidden beneath that cuteness. It really highlights the negative side of the entertainment industry..."
-True Label: Discussion
-Reason: The post has all the markings of a review except for a final recommendation or verdict, and this opens it for discussion.
+    "So, I have finished watching the first season of Oshi no Ko. Although it has 11 episodes, the first episode was the length of four... Before starting the series, I had seen some pictures and clips where everything looked very cute, but once I started watching, I realized how much darkness     was hidden beneath that cuteness. It really highlights the negative side of the entertainment industry..."
+    True Label: Discussion
+    Reason: The post has all the markings of a review except for a final recommendation or verdict, and this opens it for discussion.
 
 
 "TL;DR: I'm enjoying winter 2026. So, as the Winter 2026 season is approaching the halfway point for several shows, I wanted to share some thoughts on my currently airing list..." followed by numbered per-show takes.
@@ -120,7 +121,7 @@ Baseline used a few shot prompt with `openai/gpt-oss-120b` model for classificat
     Review
     """
 
-    After getting labels for each, the confusion matrix and accuracy metrics were calculated.
+After getting labels for each, the confusion matrix and accuracy metrics were calculated.
 
 ## Evaluation Report
 
