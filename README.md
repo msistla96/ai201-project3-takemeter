@@ -64,9 +64,9 @@ In the process of labelling, I struggled with some of the following examples:
     Reason: The post has all the markings of a review except for a final recommendation or verdict, and this opens it for discussion.
 
 
-"TL;DR: I'm enjoying winter 2026. So, as the Winter 2026 season is approaching the halfway point for several shows, I wanted to share some thoughts on my currently airing list..." followed by numbered per-show takes.
-True Label: Review
-Reason: The post explictly talks about sharing feelings, but dives into details, evaluations etc. The length reaches closer to a Review than a Discussion, helping me reflect on this as someone who has not seen all the shows.
+    "TL;DR: I'm enjoying winter 2026. So, as the Winter 2026 season is approaching the halfway point for several shows, I wanted to share some thoughts on my currently airing list..." followed by numbered per-show takes.
+    True Label: Review
+    Reason: The post explictly talks about sharing feelings, but dives into details, evaluations etc. The length reaches closer to a Review than a Discussion, helping me reflect on this as someone who has not seen all the shows.
 
 
 ## Fine tuning pipeline
